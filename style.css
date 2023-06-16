@@ -1,0 +1,38 @@
+body{
+    padding: 50px 100px;
+  }
+  h1{
+    text-align: center;
+  }
+  #container{
+    /* float: left; */
+    text-align: center;
+    background-color: rgb(143, 18, 20);
+    padding:  5rem;
+
+    /* width: 80vw; */
+    /* margin-right: 8em; */
+    /* height: fit-content; */
+    
+  }
+  .input-div{
+    display: inline-block;
+  }
+  .inp{
+    /* float: left; */
+    padding: 0.5rem 1rem;
+    margin: 0.5rem;
+    font-size: 3rem;
+    font-weight: 700;
+    width: 10rem;
+    text-align: center;
+  }
+  label{
+    font-size: 22px;
+    
+  }
+  *{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+  }
