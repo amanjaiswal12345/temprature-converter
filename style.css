@@ -10,10 +10,7 @@ body{
     background-color: rgb(143, 18, 20);
     padding:  5rem;
 
-    /* width: 80vw; */
-    /* margin-right: 8em; */
-    /* height: fit-content; */
-    
+ 
   }
   .input-div{
     display: inline-block;
